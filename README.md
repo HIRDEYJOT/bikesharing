@@ -6,14 +6,6 @@ We are exploring the idea of opening up CitiBike in Des Moines, Iowa. My friend,
 ## RESULTS
 
 
-Here is an overview of all visualizations in a single dashaboard
-
-![dashboard]CitiBike_Dashboard.png)
-
-This bar graph represents total number of rides by hour. The data shows that the window with the most riders is between 7p.m. and 9p.m.
-
-![bargraph]August_rides.png)
-
 This Pie Chart gives us a breakdown of Riders by gender. 65.3% of the riders are male, 25.1% or the riders are female, and 9.6% of the riders are unknown.
 
 ![piechart](Pie_chart.png)
