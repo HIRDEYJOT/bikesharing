@@ -6,29 +6,36 @@ We are exploring the idea of opening up CitiBike in Des Moines, Iowa. My friend,
 ## RESULTS
 
 
+
+![dashboard](/CitiBike_Dashboard.png)
+
+This bar graph represents total number of rides by hour. The data shows that the window with the most riders is between 7p.m. and 9p.m.
+
+![bargraph](/August_rides.png)
+
 This Pie Chart gives us a breakdown of Riders by gender. 65.3% of the riders are male, 25.1% or the riders are female, and 9.6% of the riders are unknown.
 
-![piechart](Pie_chart.png)
+![piechart](/Pie_chart.png)
 
 This heatmap represents the number of bike trips for each hour of each day of the week. The data shows that the bikes are used most during commute hours on weekdays and throughout the day on weekends.
 
-![heatmap](Heatmap_hour_day.png)
+![heatmap](/Heatmap_hour_day.png)
 
 This heatmap shows the number of bike trips by gender for each hour of each day of the week. Following our previous heatmap, The data shows that the bikes are used most during commute hours on weekdays and throughout the day on weekends. This heatmap shows that there is more bike usage amongst men.
 
-![heatmap](Heatmap_gender_dayofweek.png)
+![heatmap](/Heatmap_gender_dayofweek.png)
 
 This line graph displays the number of bikes checked out by duration for all users. The most frequent amount of trips last around 5 hours. Since this chart is skewed right, this means the average bike ride is usually longer than 5 hours.
 
-![line]bikes_checked_out_by_duration.png)
+![line](/bikes_checked_out_by_duration.png)
 
 This line graph shows the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender. Following our previous graph, this shows the same breakdown but includes a deeper analysis by including gender.
 
-![line]Bikes_duration_gender_hour.png)
+![line](/Bikes_duration_gender_hour.png)
 
 This heatmap shows the number of bike trips for each type of user and gender for each day of the week. The biggest demographic of users are male subscribers and the heaviest use is on Thursdays.
 
-![heatmap]Heatmap_gender_usertype_dayofweek.png)
+![heatmap](/Heatmap_gender_usertype_dayofweek.png)
 
 ## SUMMARY
 
